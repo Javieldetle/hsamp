@@ -1,0 +1,9 @@
+﻿# Local/third-party dependencies
+app/vendor/
+
+# Runtime artifacts
+*.log
+*.tmp
+
+# Optional local binaries
+stripe.exe
